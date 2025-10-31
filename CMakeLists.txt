@@ -3,6 +3,7 @@ project(FMI C)
 
 include(week3/CMakeLists.txt)
 include(week4/CMakeLists.txt)
+include(week5/CMakeLists.txt)
 
 
 set(CMAKE_C_STANDARD 11)
